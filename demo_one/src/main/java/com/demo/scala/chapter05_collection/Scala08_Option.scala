@@ -12,6 +12,7 @@ object Scala08_Option {
     println(opt1)
     println(opt2)
     println(opt3)
+    println(opt4)
     println(opt4.getOrElse(-1))
 
     println("*"*10)
